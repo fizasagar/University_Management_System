@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //Step1 Create class
 class University {
     departments: {name: string; students: Student[] } [] = [];

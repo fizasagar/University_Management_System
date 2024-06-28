@@ -1,7 +1,7 @@
 {
-  "name": "student_management_system",
+  "name": "sag20_university_management_system",
   "version": "1.0.0",
-  "description": "Building a student management system using Typescript",
+  "description": "Building a university management system using Typescript",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
