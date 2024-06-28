@@ -1,2 +1,2 @@
-# Student_Management_System
-Building a student management system using Typescript
+# University_Management_System
+Building a university management system using Typescript
